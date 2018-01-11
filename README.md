@@ -1,3 +1,8 @@
+About Project
+-------------------
+This is a simple project which work with students. It has only two pages - page with exist 
+students and page for registration. File install.md contains information how to install project 
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
